@@ -52,18 +52,3 @@ visualization: {
   id: "pixel_table_viz_dev_fe"
   url: "https://198.19.78.158:8080/coverPage.js"
 }
-visualization: {
-  label: "Pixel Perfect Headers QA"
-  id: "headers_viz_qa"
-  file: "custom_viz/headers.js"
-}
-visualization: {
-  label: "Pixel Perfect Cover Page QA"
-  id: "pixel_cover_viz_qa"
-  file: "custom_viz/coverPage.js"
-}
-visualization: {
-  label: "Pixel Perfect Banner QA"
-  id: "banner_viz_qa"
-  file: "custom_viz/banner.js"
-}
