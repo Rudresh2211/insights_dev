@@ -1,7 +1,7 @@
 project_name: "insights_dev"
 
 constant: db_connection {
-  value: "dev-bigquery"
+  value: "aaa"
   export: override_optional
 }
 
