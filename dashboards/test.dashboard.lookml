@@ -49,7 +49,7 @@
     height: 12
   - title: New Tile
     name: New Tile
-    model: insights_model
+    #model: insights_model
     explore: vehicle_type_distribution
     type: insights_dev::headers_viz_dev
     fields: [vehicle_type_distribution.count, vehicle_type_distribution.vehicle_type]
@@ -100,7 +100,7 @@
     height:
   - title: New Tile
     name: New Tile (2)
-    model: insights_model
+    #model: insights_model
     explore: vehicle_type_distribution
     type: insights_dev::headers_viz_dev
     fields: [vehicle_type_distribution.count, vehicle_type_distribution.vehicle_type]
