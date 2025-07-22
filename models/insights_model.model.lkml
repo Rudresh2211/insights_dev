@@ -6,6 +6,11 @@ include: "/dashboards/insights_test.dashboard.lookml"
 # include: "/**/*.view.lkml"                 # include all views in this project
 # include: "my_dashboard.dashboard.lookml"   # include a LookML dashboard called my_dashboard
 
-explore: vehicle_make_count {}
+# testing
+
+
+explore: vehicle_make_count {
+  label: "Insights DEV - Vehicles"
+}
 
 explore: vehicle_type_distribution {}
